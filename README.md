@@ -6,7 +6,6 @@ Algar Tech
 </h1>
 
 <p align="center">
-  <a href="#-tecnologia">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -14,12 +13,6 @@ Algar Tech
 <p align="center">
   <img alt="Maratona Behind the Code"  width="100%">
 </p>
-
- Tecnologia
-
-Esse projeto foi desenvolvido utilizando a seguintes tecnologia:
-
-- [jupyter notebook]
 
  Projeto
  O projeto da maratona foi feito com desafios para ver a pessoa que melhor se classificaria para obter pontuações e receber certificados ou prêmios para o melhor classificado.
