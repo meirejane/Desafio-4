@@ -14,7 +14,7 @@ Algar Tech
   <img alt="Maratona Behind the Code"  width="100%">
 </p>
 
- Projeto
+## Projeto
  O projeto da maratona foi feito com desafios para ver a pessoa que melhor se classificaria para obter pontuações e receber certificados ou prêmios para o melhor classificado.
 ---
 
